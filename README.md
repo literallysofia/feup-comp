@@ -3,17 +3,17 @@ Projects for the Compilers (COMP) class of the Master in Informatics and Compute
 
 - [Summary](#summary)
 - [Execution](#execution)
-- [Dealing with Sintatic Errors](#execution)
-- [Semantic Analysis](#execution)
-- [Code Generation](#execution)
+- [Dealing with Sintatic Errors](#dealing-with-sintatic-errors)
+- [Semantic Analysis](#semantic-analysis)
+- [Code Generation](#code-generation)
 - [Overview](#overview)
-- [Testsuite and Test Infrastructure](#execution)
+- [Testsuite and Test Infrastructure](#testsuite-and-test-infrastructure)
 - [Pros](#pros)
 - [Cons](#cons)
 
 Made in colaboration with [Afonso Ramos](https://github.com/AJRamos308) and [Julieta Frade](https://github.com/julietafrade97).
 
-**Completed in 13/12/2017.**
+**Completed in 06/06/2018.**
 
 ## Compiler of the yal0.4 language to Java Bytecodes
 
